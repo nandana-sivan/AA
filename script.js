@@ -1,13 +1,13 @@
 // Sample Data
 const teamMembers = [
-  { name: "Anirud M", role: "Captain", photo: "anirudd.jpg" },
+  { name: "Anirud M", role: "Captain", photo: "anirudd.JPG" },
   { name: "Aparna Raju", role: "Vice Captain", photo: "aparna.jpg" },
   { name: "Ajay Raj", role: "Technical Lead", photo: "ajay.jpg" },
   { name: "Anand A", role: "Coordinator", photo: "anand.jpg" },
   { name: "Alex Justy", role: "Social media head", photo: "alex.jpg" },
   { name: "David Martin", role: "Content Head", photo: "david.jpg" },
   { name: "Anirudh Menon", role: "Creative Head", photo: "anirudhmenon.jpg" },
-  { name: "Femy Benny", role: "Design Lead", photo: "femy.jpg" },
+  { name: "Femy Benny", role: "Design Lead", photo: "femy.JPG" },
   { name: "Devika S Menon", role: "Co-creative head", photo: "devika.jpg" },
 ];
 
